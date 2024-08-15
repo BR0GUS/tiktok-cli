@@ -1,0 +1,21 @@
+Privacy Policy
+
+Last Updated: 15.8.2024
+1. Introduction
+
+Welcome to TikTok CLI, a Command-Line Interface (CLI) tool that allows users to upload videos to TikTok. Your privacy is important to us, and this policy outlines how your information is handled when using TikTok CLI. Please note that TikTok CLI operates entirely locally on your system and does not collect, store, or transmit any personal data or usage information.
+2. No Information Collection
+
+TikTok CLI is designed to function locally on your device. We do not collect, store, or process any personal information or usage data. All operations, including video uploads, are conducted directly between your system and TikTok's API. TikTok CLI does not transmit any data to us or any third party.
+3. Interaction with TikTok API
+
+TikTok CLI connects directly to the TikTok API using credentials you provide. These credentials are used solely for the purpose of authenticating your account and uploading videos. The credentials and any data involved in the upload process remain on your local system and are not accessed or stored by TikTok CLI.
+4. Data Security
+
+Since TikTok CLI does not collect or store any information, there is no data to secure. However, we encourage you to protect your local environment by using strong passwords and ensuring your system is secure.
+5. Your Rights
+
+As TikTok CLI does not collect any personal data, there are no data-related rights (such as access, correction, or deletion) applicable under this policy. You retain full control over your data on your system.
+6. Changes to This Privacy Policy
+
+Since TikTok CLI does not collect any data, this privacy policy is straightforward and unlikely to change. However, any future changes will be reflected in this document, with the "Last Updated" date revised accordingly.
