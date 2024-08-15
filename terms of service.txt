@@ -1,0 +1,30 @@
+Terms of Service
+
+Last Updated: [Date]
+1. Acceptance of Terms
+
+By downloading, installing, or using TikTok CLI ("the Software"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not use the Software.
+2. Description of the Software
+
+TikTok CLI is an open-source Command-Line Interface (CLI) tool that enables users to upload videos directly to TikTok from their local system. The Software is hosted on GitHub and is provided under the [Open Source License Name (e.g., MIT License, Apache 2.0 License)].
+3. Use of the Software
+
+    Personal Responsibility: You are responsible for your use of the Software, including ensuring that your use complies with TikTok’s Terms of Service and Community Guidelines. The Software is provided as a tool to facilitate uploads to TikTok; you are responsible for the content you upload and any actions you take using the Software.
+
+    Open Source Contributions: As an open-source project, we welcome contributions from the community. By contributing to the project on GitHub, you agree that your contributions will be licensed under the same [Open Source License Name] as the Software.
+
+4. Limitations of Liability
+
+    No Warranty: The Software is provided "as is," without any warranty of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement. We do not guarantee that the Software will be error-free or that access to the TikTok API will be uninterrupted.
+
+    Limitation of Liability: To the maximum extent permitted by law, in no event shall the authors or copyright holders of the Software be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. Compliance with TikTok API Terms
+
+Your use of TikTok CLI must comply with the TikTok API Terms of Service. Any misuse of the TikTok API through the Software is your responsibility, and you agree to indemnify and hold harmless the authors and contributors of the Software from any claims arising from your use of the TikTok API.
+6. Modifications to the Terms
+
+We reserve the right to modify these Terms at any time. Any changes will be posted on the GitHub repository, and the "Last Updated" date will be revised accordingly. Continued use of the Software after any such changes shall constitute your consent to such changes.
+7. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
